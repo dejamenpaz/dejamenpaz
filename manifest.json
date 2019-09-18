@@ -8,7 +8,7 @@
   "content_scripts": [{
     "css": ["styles.css"],
     "js": ["content.js"],
-    "matches": ["https://blog.lateral.io/*"]
+    "matches": ["https://secure.visionbanco.com/*", "https://www.secure.itau.com.py/24horasinternet/*", "https://ssecure.familiar.com.py/*"]
   }]
 
 }
