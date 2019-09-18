@@ -1,3 +1,10 @@
-# Create a Chrome extension to modify a website's HTML or CSS
+# Extensión de Chrome para habilitar la escritura manual de contraseñas en bancos de PY.
 
-See post: https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/
+## Bancos en los que funciona
+- Visión
+- Familiar
+- Itau
+
+## Cómo instalar
+Descargar el archivo zip que contiene a este proyecto desde [aquí](https://github.com/dejamenpaz/dejamenpaz/archive/master.zip) y seguir las siguientes instrucciones para instalar extensiones a Chrome:
+https://www.cnet.com/how-to/how-to-install-chrome-extensions-manually/
