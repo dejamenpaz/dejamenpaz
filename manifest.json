@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Modify CSS and HTML",
+  "name": "Dejame en paz!",
   "version": "0.1.0",
-  "description": "Lateral blog post demo extension",
+  "description": "Habilita escritura de contraseñas en bancos de PY",
 
   "content_scripts": [{
     "css": ["styles.css"],
