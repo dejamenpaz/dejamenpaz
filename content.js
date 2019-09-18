@@ -3,6 +3,7 @@ console.log('Dejamenpaz iniciado');
 var x = document.getElementById('InputValuePIN');
 if (x) {
   x.removeAttribute('readonly');
+  x.classList.add("conClase");
   console.log('Liberado de Itau');
 }
 
@@ -12,6 +13,7 @@ for (var i = 0; i < inputs.length; i++) {
   x = inputs[i];
   if (x.type.toLowerCase() == 'password') {
     x.removeAttribute('readonly');
+    x.classList.add("conClase");
     console.log('Password habilitado');
   }
 }
